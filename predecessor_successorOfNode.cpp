@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//You need to find the inorder successor and predecessor of a given key.
 struct Tnode{
   int data;
   struct Tnode* left;
